@@ -18,7 +18,7 @@ This project can be hosted on GitHub Codespaces or run locally. The site will be
 ### Steps to Run Locally:
 
 1. Clone the repository to your local machine.
-2. Navigate to the `clients` directory:
+2. Navigate to the `clients` directory:<br>
 3.step1:-
    ```bash
    cd clients 
