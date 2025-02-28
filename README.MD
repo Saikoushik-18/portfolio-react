@@ -22,7 +22,7 @@ This project can be hosted on GitHub Codespaces or run locally. The site will be
 
 3.
    ```bash
-   cd clients 
+   cd clients <br>
    ```bash
    npm install -g parcel
    ```bash
