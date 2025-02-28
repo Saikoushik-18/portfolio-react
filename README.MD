@@ -24,16 +24,16 @@ This project can be hosted on GitHub Codespaces or run locally. The site will be
 step1:-
    ```bash
    cd clients 
-step2:-
+4.step2:-
    ```bash
    npm install -g parcel
-step3:-   
+5.step3:-   
    ```bash
    npm install react react-dom 
-step4:-   
+6.step4:-   
    ```bash
    npm install react
-step5:-
+7.step5:-
    ```bash
    npm start
 
