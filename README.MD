@@ -20,6 +20,17 @@ This project can be hosted on GitHub Codespaces or run locally. The site will be
 1. Clone the repository to your local machine.
 2. Navigate to the `clients` directory:<br>
    ```bash
-   cd clients
-
+   cd clients   
+3. Next step
+   ```bash
+   npm install -g parcel   
+4. Next step
+   ```bash   
+   npm install react react-dom   
+5. Next Step
+   ```bash   
+   npm install react   
+6. Next Step   
+   ```bash  
+   npm start
 The site will be run on port 1234. 
