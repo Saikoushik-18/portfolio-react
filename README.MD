@@ -19,9 +19,7 @@ This project can be hosted on GitHub Codespaces or run locally. The site will be
 
 1. Clone the repository to your local machine.
 2. Navigate to the `clients` directory:<br>
-3.step1:-
    ```bash
-   cd clients 
-
+   cd clients
 
 The site will be run on port 1234. 
