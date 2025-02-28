@@ -23,10 +23,14 @@ This project can be hosted on GitHub Codespaces or run locally. The site will be
 3.
    ```bash
    cd clients 
-npm install -g parcel <br>
-npm install react react-dom <br>
-npm install react <br>
-npm start <br>
+   ```bash
+   npm install -g parcel
+   ```bash
+   npm install react react-dom 
+   ```bash
+   npm install react
+   ```bash
+   npm start <br>
 
 
 The site will be run on port 1234. 
