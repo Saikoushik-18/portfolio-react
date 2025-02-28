@@ -21,16 +21,21 @@ This project can be hosted on GitHub Codespaces or run locally. The site will be
 2. Navigate to the `clients` directory:
 
 3.
+step1:-
    ```bash
-   cd clients <br>
+   cd clients 
+step2:-
    ```bash
    npm install -g parcel
+step3:-   
    ```bash
    npm install react react-dom 
+step4:-   
    ```bash
    npm install react
+step5:-
    ```bash
-   npm start <br>
+   npm start
 
 
 The site will be run on port 1234. 
